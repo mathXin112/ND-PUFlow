@@ -1,4 +1,4 @@
-# ND-PUFlow<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO -->
 
 # A Noising-Denoising Framework for Point Cloud Upsampling via Normalizing Flows
 
