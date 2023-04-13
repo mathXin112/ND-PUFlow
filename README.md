@@ -23,7 +23,7 @@ pip install -r requirements.txt
 We provide the **pre-processed supervised and self-supervised data** for the following datasets:
 * [PU-GAN (Extracting code: 2k2c)](https://pan.baidu.com/s/1CiNF8VZUhqOXhxh-UhbOig)
 * [PU1K (Extracting code: cbhy)](https://pan.baidu.com/s/19RUGuo2bZMgqiPXtadypuw)
-* [Sketchfab](https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1)
+* [Sketchfab (Extracting code: 393s)](https://pan.baidu.com/s/1qC3y1-f8UmT_CbRaRC4zCw)
 
 Please put the datasets in `./data`. You can put the datasets elsewhere if you modify the corresponding paths in the args.py.
 
